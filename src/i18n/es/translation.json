@@ -1,0 +1,22 @@
+{
+  "appTitle": "Inspector de Breaking Bad",
+  "detailTitle": "Personaje Breaking Bad",
+  "listTitle":"Listado de personajes Breaking Bad",
+  "name": "Nombre",
+  "nickname": "Apodo",
+  "char_id": "ID del personaje",
+  "birthday":  "Fecha de nacimiento",
+  "occupation": "Ocupación",
+  "status": "Estado",
+  "appearance": "Apariece en las temporadas",
+  "portrayed": "Actor",
+  "category": "Categoría",
+  "better_call_saul_appearance": "Aparece en las temporadas de Better Call Saul",
+  "no": "No",
+  "Deceased": "Fallecido",
+  "Unknown": "Desconocido",
+  "noQuote": "No hay citas para este personaje",
+  "loading": "Cargando personajes...",
+  "Error loading characters": "Error al cargar los personajes",
+  "loadingQuote": "Cargando cita aleatoria..."
+}

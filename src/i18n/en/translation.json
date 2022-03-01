@@ -1,0 +1,22 @@
+{
+  "appTitle": "Breaking Bad Inspector",
+  "detailTitle": "Breaking Bad Character",
+  "listTitle":"Breaking Bad Characters list",
+  "name": "Name",
+  "nickname": "Nickname",
+  "char_id": "Character ID",
+  "birthday": "Birthday",
+  "occupation": "Occupation",
+  "status": "Status",
+  "appearance": "Appears in seasons",
+  "portrayed": "Portrayed by",
+  "category": "Category",
+  "better_call_saul_appearance": "Appears in seasons of Better Call Saul Appearance",
+  "no": "No",
+  "Deceased": "Deceased",
+  "Unknown": "Unknown",
+  "noQuote": "There are no quotes for this character",
+  "loading": "Loading characters...",
+  "Error loading characters": "Error loading characters",
+  "loadingQuote": "Loading random quote..."
+}
